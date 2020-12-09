@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.myMargin{
+    margin: 1px;
+}
+.heading{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.myKerala{
+    margin-left: 70px;
+    font-family: cursive;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 550px;
+    text-align: center;
+}
+.mylogin{
+    margin-top: 150px;
+    margin-left: 500px;
+    margin-right: 470px;
+    background-color: white;
+    padding: 15px;
+   
+}
+#LoginButton{
+   margin-left: 20px;
+}
+.mySignup{
+    margin-top: 100px;
+    margin-left: 350px;
+}
+.loginfooter{
+    background-color: black;
+    color: white;
+    height: 1.7em;
+    margin-top: 250px;
+    text-align: center;
+}
+.signupfooter{
+    background-color: black;
+    color: white;
+    height: 1.7em;
+    margin-top: 83px;
+    text-align: center;
+}
+.myheadingaboutus{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 10px;
+}
+.myparaaboutus{
+    margin-right: 700px;
+    margin-left: 10px;
+}
+.mycontactcontex{
+    margin-left: 10px;
+    margin-right: 1000px;
+}
+.mycontactheading{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.myDistrictheading{
+    text-align: center;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.myDistrictContents{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+    margin-right: 300px;
+    border: 2px solid white;
+    background-color: green;
+    color: white;
+}
+.myDistrictImage{
+    float: right;
+}
+
+.pbox a{
+    color: green;
+    border: 2px solid black;
+    margin-right: 150px;
+    margin-left: 15px;
+    width: 22%;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.pbox1 a{
+    color: green;
+    border: 2px solid black;
+    margin-right: 155px;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.pbox2 a{
+    color: green;
+    border: 2px solid black;
+    margin-right: 120px;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.pbox3 a{
+    color: green;
+    border: 2px solid black;
+    margin-right: 170px;
+    margin-top: 20px;
+    margin-left: 15px;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+}
+.myalapyheading{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.conala{
+    margin-top: 20px;
+}
+.pbo{
+    border: 2px solid black;
+    width: 25%;
+    color: green;
+    float: left;
+    margin-left: 80px;
+    height: 22em;
+    padding: 5px;
+    background-color:white;
+    margin-right: 10px;
+}
+.pbo h3{
+    text-align: center;
+    text-transform: uppercase;
+}
+.pbo p{
+    line-height: 1.25em;
+
+}
+.pbo a{
+    text-decoration: none;
+}
+.row{
+    float: left;
+    margin: 15px;
+}
+.myjin p{
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-left: 51px;
+    background-color: white;
+    text-align: center;
+}
+.aboutusfooter{
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 150px;
+    text-align: center;
+}
+.alafooter{
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 800px;
+    text-align: center;
+}
+.erfooter{
+    background-color: black;
+    color: white;
+    height: 1.5em;
+    margin-top: 1000px;
+    text-align: center;
+}
